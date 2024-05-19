@@ -44,7 +44,8 @@ Ed would like to create a function that prints out,
 
 ### Challenge Yourself
 
-A teacher wants to create a rubric for grading. The rubric is from 0 - 11.
+A teacher wants to create a rubric for grading. The A student passes if they have a score greater than or equal to 5.
+Create a function that returns a boolean true or false. is from 0 - 11.
 
 #### Part 1
 
